@@ -1,1 +1,1 @@
-# Waste_Managment-using-CNN
+"C:\waste classfication\DATASET"
